@@ -1,0 +1,14 @@
+D:\VS\2301681005_Plamen\Arena\bin\Debug\net8.0\Arena.exe
+D:\VS\2301681005_Plamen\Arena\bin\Debug\net8.0\Arena.deps.json
+D:\VS\2301681005_Plamen\Arena\bin\Debug\net8.0\Arena.runtimeconfig.json
+D:\VS\2301681005_Plamen\Arena\bin\Debug\net8.0\Arena.dll
+D:\VS\2301681005_Plamen\Arena\bin\Debug\net8.0\Arena.pdb
+D:\VS\2301681005_Plamen\Arena\obj\Debug\net8.0\Arena.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\2301681005_Plamen\Arena\obj\Debug\net8.0\Arena.AssemblyInfoInputs.cache
+D:\VS\2301681005_Plamen\Arena\obj\Debug\net8.0\Arena.AssemblyInfo.cs
+D:\VS\2301681005_Plamen\Arena\obj\Debug\net8.0\Arena.csproj.CoreCompileInputs.cache
+D:\VS\2301681005_Plamen\Arena\obj\Debug\net8.0\Arena.dll
+D:\VS\2301681005_Plamen\Arena\obj\Debug\net8.0\refint\Arena.dll
+D:\VS\2301681005_Plamen\Arena\obj\Debug\net8.0\Arena.pdb
+D:\VS\2301681005_Plamen\Arena\obj\Debug\net8.0\Arena.genruntimeconfig.cache
+D:\VS\2301681005_Plamen\Arena\obj\Debug\net8.0\ref\Arena.dll
