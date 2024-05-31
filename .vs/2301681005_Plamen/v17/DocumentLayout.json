@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\VS\\2301681005_Plamen\\",
+  "WorkspaceRootPath": "D:\\VS\\2301681005_Plamen_Arena\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39957022-A5F6-4B1B-B100-651D1F90AB75}|Arena\\Arena.csproj|d:\\vs\\2301681005_plamen\\arena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39957022-A5F6-4B1B-B100-651D1F90AB75}|Arena\\Arena.csproj|d:\\vs\\2301681005_plamen_arena\\arena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39957022-A5F6-4B1B-B100-651D1F90AB75}|Arena\\Arena.csproj|solutionrelative:arena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\VS\\2301681005_Plamen\\Arena\\Program.cs",
+              "DocumentMoniker": "D:\\VS\\2301681005_Plamen_Arena\\Arena\\Program.cs",
               "RelativeDocumentMoniker": "Arena\\Program.cs",
-              "ToolTip": "D:\\VS\\2301681005_Plamen\\Arena\\Program.cs",
+              "ToolTip": "D:\\VS\\2301681005_Plamen_Arena\\Arena\\Program.cs",
               "RelativeToolTip": "Arena\\Program.cs",
-              "ViewState": "AQIAAN8AAAAAAAAAAAAgwCQBAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T20:33:20.809Z",
               "EditorCaption": ""

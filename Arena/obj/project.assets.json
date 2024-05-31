@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS\\2301681005_Plamen\\Arena\\Arena.csproj",
+      "projectUniqueName": "D:\\VS\\2301681005_Plamen_Arena\\Arena\\Arena.csproj",
       "projectName": "Arena",
-      "projectPath": "D:\\VS\\2301681005_Plamen\\Arena\\Arena.csproj",
+      "projectPath": "D:\\VS\\2301681005_Plamen_Arena\\Arena\\Arena.csproj",
       "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
-      "outputPath": "D:\\VS\\2301681005_Plamen\\Arena\\obj\\",
+      "outputPath": "D:\\VS\\2301681005_Plamen_Arena\\Arena\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
